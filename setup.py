@@ -14,6 +14,7 @@ setup(
     version=VERSION,
     description=description,
     long_description=long_description,
+    license='MIT',
     author='Filipp Ozinov',
     author_email='fippo@mail.ru',
     url='https://github.com/bakwc/PySyncObj',
